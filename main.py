@@ -17,9 +17,9 @@ async def on_ready():  # When the bot is ready
 
 extensions = [
 	'cogs.cog_example',
-    'cogs.api_pat',
-    'cogs.api_kpop',
-    'cogs.api_wink'
+	'cogs.api_pat',
+	'cogs.api_kpop',
+	'cogs.api_wink'
     # Same name as it would be if you were importing it
 ]
 
